@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+TestResults/
+*.log
+.idea/
+.vscode/
+!src/CoffeeShop.WinForms/appsettings.json
+/php_version(old)/
